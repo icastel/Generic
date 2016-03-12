@@ -147,4 +147,7 @@
       <Value>$(SqlCmdVar__2)</Value>
     </SqlCmdVariable>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="LOCAL_myDB.publish.xml" />
+  </ItemGroup>
 </Project>
